@@ -19,7 +19,7 @@
     "@react-native-firebase/storage": "^7.1.5",
     "@react-navigation/native": "^5.6.0",
     "@react-navigation/stack": "^5.2.10",
-    "firebase": "^7.14.0",
+    "firebase": "^7.24.0",
     "react": "16.11.0",
     "react-native": "0.70.3",
     "react-native-gesture-handler": "^1.6.1",
